@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+*.pkl
+*.joblib
+
+# Keep artifacts structure but not models (too large for git)
+ml/artifacts/*.pkl
+!ml/artifacts/.gitkeep
+
+# Node
+node_modules/
+frontend/dist/
+
+# Data - keep schema but not generated data
+data/students.csv
+
+# Env
+.env
+*.log
+.DS_Store

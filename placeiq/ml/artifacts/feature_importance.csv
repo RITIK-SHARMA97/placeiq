@@ -1,0 +1,15 @@
+feature,label,mean_abs_shap
+institute_tier,Institute tier,0.47035825
+job_portal_activity,Job portal engagement,0.3616761
+sector_growth_index,Sector growth index,0.31433412
+cgpa_sem_prev1,CGPA last semester,0.27111265
+cgpa_sem_prev2,CGPA 2 semesters ago,0.26294693
+city_labor_demand,City labor demand,0.2540539
+backlogs,Number of backlogs,0.22738196
+cgpa,Current CGPA,0.2242989
+internship_quality,Internship quality,0.17385884
+num_certifications,Certifications earned,0.1394669
+has_github,Active GitHub profile,0.12473529
+num_internships,Internships completed,0.09437774
+sem_gap_years,Academic gap years,0.07952387
+has_linkedin,LinkedIn presence,0.036514077

@@ -1,0 +1,71 @@
+{
+  "feature_columns": [
+    "cgpa",
+    "cgpa_sem_prev1",
+    "cgpa_sem_prev2",
+    "backlogs",
+    "sem_gap_years",
+    "num_internships",
+    "internship_quality",
+    "num_certifications",
+    "has_github",
+    "has_linkedin",
+    "job_portal_activity",
+    "city_labor_demand",
+    "sector_growth_index",
+    "institute_tier"
+  ],
+  "feature_labels": {
+    "cgpa": "Current CGPA",
+    "cgpa_sem_prev1": "CGPA last semester",
+    "cgpa_sem_prev2": "CGPA 2 semesters ago",
+    "backlogs": "Number of backlogs",
+    "sem_gap_years": "Academic gap years",
+    "num_internships": "Internships completed",
+    "internship_quality": "Internship quality",
+    "num_certifications": "Certifications earned",
+    "has_github": "Active GitHub profile",
+    "has_linkedin": "LinkedIn presence",
+    "job_portal_activity": "Job portal engagement",
+    "city_labor_demand": "City labor demand",
+    "sector_growth_index": "Sector growth index",
+    "institute_tier": "Institute tier"
+  },
+  "placement_metrics": {
+    "3mo": {
+      "auc": 0.652027027027027,
+      "accuracy": 0.69,
+      "lr_baseline_auc": 0.6748960498960499,
+      "n_train": 800,
+      "n_test": 200
+    },
+    "6mo": {
+      "auc": 0.5948594859485948,
+      "accuracy": 0.59,
+      "lr_baseline_auc": 0.7096709670967097,
+      "n_train": 800,
+      "n_test": 200
+    },
+    "12mo": {
+      "auc": 0.7515190972222222,
+      "accuracy": 0.715,
+      "lr_baseline_auc": 0.790798611111111,
+      "n_train": 800,
+      "n_test": 200
+    }
+  },
+  "salary_metrics": {
+    "p25": {
+      "mae": 159860.203203125
+    },
+    "p50": {
+      "mae": 150229.78140624994
+    },
+    "p75": {
+      "mae": 179602.89999999997
+    }
+  },
+  "n_students": 1000,
+  "trained_at": "2026-04-30T19:37:21.322467",
+  "model_version": "1.0.0"
+}

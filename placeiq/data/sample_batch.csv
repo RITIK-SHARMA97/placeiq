@@ -1,0 +1,11 @@
+student_id,name,stream,institute,institute_tier,city,cgpa,num_internships,internship_quality,num_certifications,has_github,has_linkedin,job_portal_activity,backlogs
+STU001,Rahul Sharma,B.Tech CS,PICT Pune,2,Pune,6.8,1,1,0,0,1,0.35,0
+STU002,Priya Patel,MBA Finance,Symbiosis Pune,2,Pune,7.5,2,2,1,1,1,0.60,0
+STU003,Arjun Singh,B.Tech ECE,NIT Trichy,1,Chennai,8.2,2,3,2,1,1,0.75,0
+STU004,Neha Kumar,BCA,Sunrise College,3,Patna,5.9,0,0,0,0,0,0.10,2
+STU005,Karan Gupta,B.Tech CS,Amity Noida,2,Delhi NCR,7.0,1,2,1,1,1,0.50,0
+STU006,Ananya Joshi,B.Tech CS,VIT Vellore,1,Bangalore,8.7,3,4,3,1,1,0.90,0
+STU007,Vikram Verma,MBA Marketing,XLRI Jamshedpur,1,Mumbai,7.9,2,3,2,1,1,0.70,0
+STU008,Shreya Shah,B.Tech Mech,VJTI Mumbai,2,Mumbai,6.2,0,1,1,0,1,0.25,1
+STU009,Aditya Yadav,BCA,Global Institute,3,Bhopal,5.5,0,0,0,0,0,0.05,3
+STU010,Pooja Mishra,B.Sc Nursing,CMC Vellore,1,Chennai,7.8,1,2,1,0,1,0.45,0

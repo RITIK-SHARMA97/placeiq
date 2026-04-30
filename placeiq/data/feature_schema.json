@@ -1,0 +1,24 @@
+{
+  "feature_columns": [
+    "cgpa",
+    "cgpa_sem_prev1",
+    "cgpa_sem_prev2",
+    "backlogs",
+    "sem_gap_years",
+    "num_internships",
+    "internship_quality",
+    "num_certifications",
+    "has_github",
+    "has_linkedin",
+    "job_portal_activity",
+    "city_labor_demand",
+    "sector_growth_index",
+    "institute_tier"
+  ],
+  "target_3mo": "is_placed_3mo",
+  "target_6mo": "is_placed_6mo",
+  "target_12mo": "is_placed_12mo",
+  "salary_target": "expected_salary",
+  "generated_at": "2026-04-30T14:24:26.995264",
+  "n_records": 1000
+}
